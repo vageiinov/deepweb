@@ -1,0 +1,25 @@
+name: Deepweb-Links-2024
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Runs every minute
+
+jobs:
+  Deep-Websites-2024:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Update Deep-Websites-2024.txt
+        run: |
+              echo "$(date -u +'%Y-%m-%d %H:%M:%S') UTC - Update" >> Deep-Websites-2024.txt
+          
+      - name: Commit changes
+        run: |
+          git config --global user.email "sergeiivanov941@outlook.com"
+          git config --global user.name "vageiinov"
+          git add Deep-Websites-2024.txt
+          git commit -m "Deep-Websites-2024.txt" || echo "No changes to commit"
+          git push
