@@ -1,0 +1,26 @@
+name: Deepweb-Links-2024
+
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Runs every minute
+
+jobs:
+  Deep-Websites-2024:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Delete Deep-Websites-2024.txt
+        run: |
+          rm -f Deep-Websites-2024.txt
+          ls -l  # For debugging purposes, list files in the directory to check if Deep-Websites-2024.txt is deleted
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "sergeiivanov941@outlook.com"
+          git config --global user.name "vageiinov"
+          git add -A  # Add all changes, including the deletion of Deep-Websites-2024.txt
+          git commit -m "Deep-Websites-2024.txt" || echo "No changes to commit"
+          git push
