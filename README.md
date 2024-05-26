@@ -36,60 +36,60 @@ Embark on a Shadowed Odyssey with Deep Web Sites 2024, your guiding light throug
 
 Welcome to Whispered Heights, a clandestine rendezvous with the most coveted secrets of the dark web. In this meticulously curated selection, we unveil the pinnacle of clandestine connectivity: 2024's Premier 10 Fresh Onion Links. Delve into the shadows and explore a realm where anonymity reigns supreme, as each link opens doors to hidden marketplaces, forums, and resources. Our commitment to security ensures that every destination is vetted and secure, offering a glimpse into the enigmatic world of the darknet. Join us on this journey as we ascend to the highest peaks of digital secrecy and discovery.
 
-### TheHiddenWiki
+### 01 TheHiddenWiki
 
 - [TheHiddenWiki](http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page) - `http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page`
 
 <a href="http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/the%20hidden%20wiki.png"><a>
 
-### Ahmia
+### 02 Ahmia
 
 - [Ahmia](http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion) - `http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion`
 
 <a href="http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/Ahmia.png"><a>
 
-### CashCow
+### 03 CashCow
 
 - [CashCow](http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion) - `http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion`
 
 <a href="http://hssza6r6fbui4x452ayv3dkeynvjlkzllezxf3aizxppmcfmz2mg7uad.onion"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/Cash%20Cow.png"><a>
 
-### CashMachine
+### 04 CashMachine
 
 - [CashMachine](http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion) - `http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion`
 
 <a href="http://n3irlpzwkcmfochhuswpcrg35z7bzqtaoffqecomrx57n3rd5jc72byd.onion"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/CashMachine.png"><a>
 
-### DuckDuckGo
+### 05 DuckDuckGo
 
 - [DuckDuckGo](http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) - `http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion`
 
 <a href="http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/DuckDuckGo.png"><a>
 
-### Fish'n'Pal
+### 06 Fish'n'Pal
 
 - [Fish'n'Pal](http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion) - `http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion`
 
 <a href="http://56dlutemceny6ncaxolpn6lety2cqfz5fd64nx4ohevj4a7ricixwzad.onion"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/Fish'n'Pal.png"><a>
 
-### OnionLinks
+### 07 OnionLinks
 
 - [OnionLinks](http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion) - `http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion`
 
 <a href="http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/OnionLinks.png"><a>
 
-### PremiumCards
+### 08 PremiumCards
 - [PremiumCards](http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion) - `http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion`
 
 <a href="http://hbl6udan73w7qbjdey6chsu5gq5ehrfqbb73jq726kj3khnev2yarlid.onion"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/Premium%20cards.png"><a>
 
-### TheGreenMachine
+### 09 TheGreenMachine
 
 - [PremiumCards](http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion) - `http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion`
 
 <a href="http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion"><img src="https://github.com/vageiinov/deepweb/blob/main/Images/The%20Green%20Machine.png"><a>
 
-### USJUD
+### 10 USJUD
 
 - [USJUD](http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion) - `http://usjud6uoc5gxmrfyuid4hm3e2slisucbwwnviiltyvdp5pma2xsr7aad.onion`
 
