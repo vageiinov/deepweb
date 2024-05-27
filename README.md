@@ -119,7 +119,7 @@ Welcome to Whispered Heights, a clandestine rendezvous with the most coveted sec
 - [Horizon Store](http://hrznstuh7fklpawxt5asormu5plwkqpnymnop4iptalt67ebpu5osiad.onion/) - We sell zero-risk prepaid cards for online & ATM.
 - [Onion Wallet](http://zwf5i7hiwmffq2bl7euedg6y5ydzze3ljiyrjmm7o42vhe7ni56fm7qd.onion/) - Safe Tor-based wallet for your dark needs.
 - [Hidden Wallet](http://d46a7ehxj6d6f2cf4hi3b424uzywno24c7qtnvdvwsah5qpogewoeqid.onion/) - Store and transact your BTC coins from an anonymous wallet.
-- EasyCoin](http://vu3miq3vhxljfclehmvy7ezclvsb3vksmug5vuivbpw4zovyszbemvqd.onion/) - A great choice for privacy transactions.
+- [EasyCoin](http://vu3miq3vhxljfclehmvy7ezclvsb3vksmug5vuivbpw4zovyszbemvqd.onion/) - A great choice for privacy transactions.
 - [Virgin Bitcoins](http://ovai7wvp4yj6jl3wbzihypbq657vpape7lggrlah4pl34utwjrpetwid.onion/) - Buy freshly mined new virgin bitcoins.
 - [CardShop](http://f6wqhy6ii7metm45m4mg6yg76yytik5kxe6h7sestyvm6gnlcw3n4qad.onion/) - You will get a High-Quality known balance cc.
 - [Dark Web Hackers](http://zkj7mzglnrbvu3elepazau7ol26cmq7acryvsqxvh4sreoydhzin7zid.onion/) - They get things done quickly.
