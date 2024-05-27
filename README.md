@@ -184,7 +184,8 @@ Welcome to Whispered Heights, a clandestine rendezvous with the most coveted sec
 - [SuprBay](http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/) - Forum for discussions related to The Pirate Bay and other file-sharing topics.
 - [EndChan](http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/) - Imageboard community with a variety of discussion boards.
 - [XSS.is](http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/) - Forum for web security and exploits discussion.
-- [New York Times](http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion/) - Official website for The New York Times on the dark web. [DarkNetLive](http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/) - News and information related to dark web markets and cybercrime.
+- [New York Times](http://ej3kv4ebuugcmuwxctx5ic7zxh73rnxt42soi3tdneu2c2em55thufqd.onion/) - Official website for The New York Times on the dark web.
+- [DarkNetLive](http://darknetlidvrsli6iso7my54rjayjursyw637aypb6qambkoepmyq2yd.onion/) - News and information related to dark web markets and cybercrime.
 - [Reddit](http://reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/) - The official Reddit site accessible on the dark web.
 - [Exploit.in](http://exploitivzcm5dawzhe6c32bbylyggbjvh5dyvsvb5lkuz5ptmunkmqd.onion/) - Forum for discussing exploits and vulnerabilities.
 - [NZ Darknet Market Forum](http://nzdnmfcf2z5pd3vwfyfy3jhwoubv6qnumdglspqhurqnuvr52khatdad.onion/) - Forum for discussions related to dark web markets in New Zealand.
